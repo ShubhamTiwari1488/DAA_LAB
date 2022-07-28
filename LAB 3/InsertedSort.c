@@ -49,7 +49,7 @@ int main()
  
  start = clock();
  
- insertionSort(arr,0,n);
+ insertionSort(arr,0,n-1);
  
  end = clock();
  
